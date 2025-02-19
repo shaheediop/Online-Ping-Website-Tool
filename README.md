@@ -1,5 +1,7 @@
 # Online-Ping-Website-Tool
 https://toolsbox.com/online-ping-website-tool
+ 
+ 
  What is an Online Website Ping Tool?        
  The Online Ping Website Tool is used to index websites properly in search engines. It is the greatest addition to the SEO Tool Centre, and the webmaster uses this tool on a large number.
 It will immediately index the site's new content in the search engine. Search engines like Google take some time to index content from the website because they must first detect changes you made to the website and any new content. If Google believes the content to be informative, they index it and accept the changes.
